@@ -6,7 +6,7 @@ A website created to build an itinerary for users based on their current locatio
 2. Download the sdk folder (dependency folder for viewing maps from tomtom api) using this link : https://api.tomtom.com/maps-sdk-js/4.47.6/jssdk-4.47.6-distribution.zip
 3. Extract node modules folder and add the package-lock json file to your root folder.
 4. Run "node server" in terminal. 
-5. Now, website will run in the port number you specified in the server.js file. (In the code,3000. so run "http://localhost/3000" in your system to see the website).
+5. Now, website will run in the port number you specified in the server.js file. (In the code,3000. so run "http://localhost:3000/" in your system to see the website).
 
 #  WEBSITE LINK
 The website has been deployed using heroku and is now running in the link: https://planiffy.herokuapp.com/ 
