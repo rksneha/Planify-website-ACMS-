@@ -11,3 +11,4 @@ A website created to build an itinerary for users based on their current locatio
 #  WEBSITE LINK
 The website has been deployed using heroku and is now running in the link: https://planiffy.herokuapp.com/ 
 [ NOTE: This repository is created on 26th june 2020. So, it will be running only for 21 days in heroku. To view the website later, run it locally in your systems.]
+
