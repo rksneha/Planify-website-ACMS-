@@ -1,5 +1,5 @@
 # Planify-website-ACMS-
-A website created to build an itinerary for users based on their current location and free time(in hours).
+A website created to build an itinerary for users based on their current location and free time.
 
 # TO RUN LOCALLY
 1. Create "views" folder in your root folder and add all the client side files into it.
